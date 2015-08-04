@@ -8,6 +8,9 @@
   },
   "author": "Andrew Braithwaite",
   "license": "MIT",
+  "scripts": {
+    "test": "mocha test.js"
+  },
   "dependencies": {
     "chai": "^3.2.0",
     "mocha": "^2.2.5",
